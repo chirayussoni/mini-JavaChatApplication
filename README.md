@@ -1,5 +1,4 @@
-# Project_22.02
-## Java Chat Application
+# Java Chat Application
 
 This project is a simple **multi-client chat application** built in Java using **sockets**.  
 It consists of two main components:
